@@ -1,0 +1,4 @@
+﻿  pong.cpp
+D:\dev\cpp\Pong\src\pong.cpp(61,13): warning C4244: 'initializing': conversion from 'double' to 'uint8_t', possible loss of data
+D:\dev\cpp\Pong\src\pong.cpp(62,13): warning C4244: 'initializing': conversion from 'double' to 'uint8_t', possible loss of data
+  Pong.vcxproj -> D:\dev\cpp\Pong\x64\Debug\Pong.exe
